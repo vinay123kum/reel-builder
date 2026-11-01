@@ -1,0 +1,11 @@
+{
+  "bpm": 120,
+  "logo": "demo/logo.png",
+  "output": "out/reel.mp4",
+  "shots": [
+    {"src": "demo/clip_a.mp4", "beats": 4, "sticker": {"x": 540, "y": 800, "lines": [["Latte Art", "Black", 110, "#2F4B3A"], ["WORKSHOP", "ExtraBold", 74, "#FF4F9A"]]}},
+    {"src": "demo/clip_b.mp4", "beats": 4, "sticker": {"x": 540, "y": 1000, "angle": 3, "lines": [["Saturday, March 13", "ExtraBold", 72, "#2F4B3A"]]}},
+    {"src": "demo/clip_c.mp4", "beats": 4, "sticker": {"x": 540, "y": 900, "lines": [["10:30 AM – 12:00 PM", "ExtraBold", 66, "#2F4B3A"]]}},
+    {"src": "demo/clip_a.mp4", "ss": 2, "beats": 4, "sticker": {"x": 540, "y": 950, "angle": 2, "lines": [["Book your seat", "Black", 88, "#FF4F9A"]]}}
+  ]
+}
