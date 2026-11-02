@@ -19,7 +19,7 @@ The system was taught on 25 of the company's past Reels, which became 8 ready te
 - **Before:** an editor builds each video by hand on a timeline
 - **Now:** pick a template, drop clips from a computer or Google Drive, then type the details or paste a script
 - **Time:** a finished Reel in 3 to 4 minutes at most
-- **Result:** the mundane part is gone, so the team can spend its time on the creative work
+- **Result:** the mundane part is gone, so the team gets more time for creative videos and can put its effort into the ones that need human attention
 
 Staff speech is transcribed automatically, and clips are picked by motion scoring. A person still reviews each video, because motion scoring can't judge faces or story.
 
